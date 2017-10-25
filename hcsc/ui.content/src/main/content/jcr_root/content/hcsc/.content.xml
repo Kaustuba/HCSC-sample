@@ -9,9 +9,10 @@
         sling:redirect="{Boolean}true"
         sling:redirectStatus="{Long}302"
         sling:resourceType="foundation/components/redirect"
-        redirectTarget="/content/hcsc/en">
+        redirectTarget="/content/hcsc/En">
         <image jcr:primaryType="nt:unstructured">
             <file/>
         </image>
     </jcr:content>
+    <en/>
 </jcr:root>
